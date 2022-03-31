@@ -3,10 +3,10 @@ Calcula el valor de un menu en un local de comida
 '''
 
 
-big_whop = int(3500)
-cajitaJR = int(2500)
-papas_fritas = int(800)
-bebidas = int(1000)
+big_whop = 3500
+cajitaJR = 2500
+papas_fritas = 800
+bebidas = 1000
 print('Bienvendo a McKing, nustro menú es el siguente:')
 print('Big Whop = 3500 pesos')
 print('Cajita Jr = 2500 pesos')
